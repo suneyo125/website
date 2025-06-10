@@ -191,7 +191,7 @@ HERO
     content: '';
     width: 50%;
     height: 100vh;
-    background: url('../images/img1.jpg') no-repeat center / cover;
+    background: url('../images/bg-hero.jpg') no-repeat center / cover;
     position: absolute;
     inset: 0;
 }
