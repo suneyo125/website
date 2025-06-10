@@ -191,7 +191,7 @@ HERO
     content: '';
     width: 50%;
     height: 100vh;
-    background: url('../images/集合写真2.png') no-repeat center / cover;
+    background: url('../images/img1.png') no-repeat center / cover;
     position: absolute;
     inset: 0;
 }
