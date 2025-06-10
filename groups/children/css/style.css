@@ -191,7 +191,7 @@ HERO
     content: '';
     width: 50%;
     height: 100vh;
-    background: url('../images/bg-hero.jpg') no-repeat center / cover;
+    background: url('../images/DSC03991.JPG') no-repeat center / cover;
     position: absolute;
     inset: 0;
 }
@@ -269,7 +269,7 @@ GALLERY
 SHOP INFO
 ================================================ */
 .shop {
-    background: url('../images/bg-shop.jpg') no-repeat center top / cover;
+    background: url('../images/DSC03963.JPG') no-repeat center top / cover;
     margin-top: 16rem;
     position: relative;
     height: 40rem;
