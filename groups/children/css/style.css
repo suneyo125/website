@@ -201,7 +201,7 @@ HERO
     left: 75%;
     translate: -50% -50%;
     z-index: 2;
-    width: 100%;
+    width: 50%;
     font-size: max(10vw, 3rem);
     line-height: 1.2;
 }
