@@ -189,7 +189,7 @@ HERO
 }
 .hero::after {
     content: '';
-    width: 50%;
+    width: 75%;
     height: 100vh;
     background: url('../images/bg-hero.jpg') no-repeat center / cover;
     position: absolute;
